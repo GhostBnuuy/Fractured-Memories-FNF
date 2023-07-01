@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/850498086835847169/1122201813924458588/SPOILER_sticknojumpscare.png"></a>
     <h1 align="center">Fractured Memories</h1>
+    <img src="https://cdn.discordapp.com/attachments/850498086835847169/1122201813924458588/SPOILER_sticknojumpscare.png"></a>
 </p>
 
 ## A message from Mono
