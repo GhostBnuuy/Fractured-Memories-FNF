@@ -1,0 +1,7 @@
+{
+	"name": "Fractured Memories",
+	"description": "Note from Bunny: this mod loads a lot of characters in a single song so it's best to play this on a stronger PC. There's also an optimized version without any assets but just the cover.",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

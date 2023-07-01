@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sarv Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sarv Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sarv Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sarv Right"
+		},
+		{
+			"offsets": [
+				122,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sarv Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sarv_Third_Person",
+	"position": [
+		70,
+		-20
+	],
+	"healthicon": "sarvente-lucifer",
+	"flip_x": true,
+	"healthbar_colors": [
+		211,
+		52,
+		125
+	],
+	"camera_position": [
+		78,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,3 +1,0 @@
-Value 1: The text
-
-Value 2: The amount of time the text is on screen

@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mono Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mono Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				431
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mono Right"
+		},
+		{
+			"offsets": [
+				6,
+				392
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mono Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mono Idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				10,
+				10,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Super_Mono_Assets",
+	"position": [
+		-550,
+		120
+	],
+	"healthicon": "supermono",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		225,
+		56
+	],
+	"camera_position": [
+		-442,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
