@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ruria IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ruria LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				25
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ruria RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ruria DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				77
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ruria UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Soul_Ruria",
+	"position": [
+		830,
+		170
+	],
+	"healthicon": "ruriaded",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		96,
+		53
+	],
+	"camera_position": [
+		-250,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

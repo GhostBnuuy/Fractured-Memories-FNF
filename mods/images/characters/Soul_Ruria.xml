@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Soul_Ruria.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ruria DOWN0000" x="0" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0001" x="0" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0002" x="268" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0003" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0004" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0005" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0006" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0007" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0008" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria DOWN0009" x="536" y="0" width="268" height="477"/>
+	<SubTexture name="Ruria IDLE0000" x="804" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0001" x="804" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0002" x="804" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0003" x="1065" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0004" x="1065" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0005" x="1065" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0006" x="1326" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0007" x="1326" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0008" x="1587" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0009" x="1587" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0010" x="1587" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0011" x="1587" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0012" x="1587" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria IDLE0013" x="1587" y="0" width="261" height="508"/>
+	<SubTexture name="Ruria LEFT0000" x="1848" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0001" x="2122" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0002" x="2396" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0003" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0004" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0005" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0006" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0007" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0008" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria LEFT0009" x="2670" y="0" width="274" height="511"/>
+	<SubTexture name="Ruria RIGHT0000" x="0" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0001" x="0" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0002" x="408" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0003" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0004" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0005" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0006" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0007" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0008" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria RIGHT0009" x="816" y="511" width="408" height="512"/>
+	<SubTexture name="Ruria UP0000" x="1224" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0001" x="1224" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0002" x="1521" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0003" x="1818" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0004" x="1818" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0005" x="1818" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0006" x="1818" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0007" x="1818" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0008" x="1818" y="511" width="297" height="568"/>
+	<SubTexture name="Ruria UP0009" x="1818" y="511" width="297" height="568"/>
+</TextureAtlas>
